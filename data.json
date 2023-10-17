@@ -1,0 +1,93 @@
+{
+    "nike": [
+
+        {
+            "nikeId":"1",
+            "title": "Nike Air Force 1",
+            "description": "THIS IS ID 1 NIKE",
+            "url": "./images/nikeairforce1.jpg"
+            
+        },
+        {
+            "nikeId":"2",
+            "title": "Nike Air Max 97",
+            "description": "THIS IS ID 2 NIKE",
+            "url": "images/nikeairmax97.jpg"
+
+        },
+        {
+            "nikeId":"3",
+            "title": "Nike Air Max 270",
+            "description": "THIS IS ID 3 NIKE",
+            "url": "images/nikeairmax270's.jpg"
+            
+        },
+        {
+            "nikeId":"4",
+            "title": "Nike Zoom",
+            "description": "THIS IS ID 4 NIKE",
+            "url": "images/nikezooms.jpg"
+            
+        }
+    ],
+    "addidas":[
+        {
+            "addidasId":"1",
+            "title": "Addidas Superstar",
+            "description": "THIS IS ID 1 ADDIDAS",
+            "url": "images/addidassuperstar.jpg"
+            
+        },
+        {
+            "addidasId":"2",
+            "title": "Addidas Hoops Mid Shoe",
+            "description": "THIS IS ID 2 ADDIDAS",
+            "url": "images/addidashoopsmidShoes.jpg"
+            
+        },
+        {
+            "addidasId":"3",
+            "title": "Addidas Forum Low Shoe",
+            "description": "THIS IS ID 3 ADDIDAS",
+            "url": "images/addidasforumlowshoes.jpg"
+            
+        },
+        {
+            "addidasId":"4",
+            "title": "Addidas ZX 750",
+            "description": "THIS IS ID 4 ADDIDAS",
+            "url": "images/addidaszx750.jpg"
+            
+        }
+    ],
+    "newbalance":[
+        {
+            "newbalanceId":"1",
+            "title": "New Balance 550",
+            "description": "THIS IS ID 1 new balance",
+            "url": "images/newbalance550.jpg"
+            
+        },
+        {
+            "newbalanceId":"2",
+            "title": "New Balance 574 Core",
+            "description": "THIS IS ID 2 new balance",
+            "url": "images/newbalance574core.jpg"
+            
+        },
+        {
+            "newbalanceId":"3",
+            "title": "New Balance Revlite 247",
+            "description": "THIS IS ID 3 new balance",
+            "url": "images/newbalancerevlite247.jpg"
+            
+        },
+        {
+            "newbalanceId":"4",
+            "title": "New Balance 997H",
+            "description": "THIS IS ID 4 new balance",
+            "url": "images/newbalance997H.jpg"
+        }
+    
+    ]
+}
