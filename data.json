@@ -4,28 +4,32 @@
         {
             "nikeId":"1",
             "title": "Nike Air Force 1",
-            "description": "THIS IS ID 1 NIKE",
+            "description": "The Nike Air Force Ones are a classic and iconic sneaker designed my Nike first in 1982 and have since been modified to be one of the best sneakers on the market.",
+            "price":"$115.00",
             "url": "./images/nikeairforce1.jpg"
             
         },
         {
             "nikeId":"2",
             "title": "Nike Air Max 97",
-            "description": "THIS IS ID 2 NIKE",
+            "description": "The Nike Air Max 97's were first introduced by Nike in 1997 and has gained populatiry for it distictive design and innovative Air Max cushioning technology. ",
+            "price":"$140.97",
             "url": "images/nikeairmax97.jpg"
 
         },
         {
             "nikeId":"3",
             "title": "Nike Air Max 270",
-            "description": "THIS IS ID 3 NIKE",
+            "description": "The Nike Air Max 270's were first introduced in 2018 as a modifcation to the Air Max 97's. The Nike Air Max 270's however have a large, visibile Air unit in the heel which is great for cushioning.",
+            "price":"$160.00",
             "url": "images/nikeairmax270's.jpg"
             
         },
         {
             "nikeId":"4",
             "title": "Nike Zoom",
-            "description": "THIS IS ID 4 NIKE",
+            "description": "The Nike Zoom's were designed for performance in sports and running. The technology in the shoe is designed to absorb  and return energy efficiently. ",
+            "price":"$104.97",
             "url": "images/nikezooms.jpg"
             
         }
@@ -34,28 +38,32 @@
         {
             "addidasId":"1",
             "title": "Addidas Superstar",
-            "description": "THIS IS ID 1 ADDIDAS",
+            "description": "The Addidas Superstar's are a classic and iconic sneaker first introduced in 1969. The Superstar is known for it's destinctive design, featuring a low-top silhouette, a rubber shell toe cap, and the iconic three stripes on the sides.",
+            "price":"$100.00",
             "url": "images/addidassuperstar.jpg"
             
         },
         {
             "addidasId":"2",
             "title": "Addidas Hoops Mid Shoe",
-            "description": "THIS IS ID 2 ADDIDAS",
+            "description": "The Addidas Hoops Mid Shoe is a basketball inspired High-top sneaker designed to provide extra ankle support.",
+            "price":"$52.50",
             "url": "images/addidashoopsmidShoes.jpg"
             
         },
         {
             "addidasId":"3",
             "title": "Addidas Forum Low Shoe",
-            "description": "THIS IS ID 3 ADDIDAS",
+            "description": "The Addidas Forum Low Shoe is a classic and retro-insipried sneaker first introduced in the 1980's as a basketball shoe has since become an inconic choice in both athletic and streetwear fashion.",
+            "price":"$79.99",
             "url": "images/addidasforumlowshoes.jpg"
             
         },
         {
             "addidasId":"4",
             "title": "Addidas ZX 750",
-            "description": "THIS IS ID 4 ADDIDAS",
+            "description": "The Addidas ZX 750 is a classic running shoe that has a rubber outsole designed for traction.",
+            "price":"$100.00",
             "url": "images/addidaszx750.jpg"
             
         }
@@ -64,28 +72,32 @@
         {
             "newbalanceId":"1",
             "title": "New Balance 550",
-            "description": "THIS IS ID 1 new balance",
+            "description": "The New Balance 550's are a retro-inspired basketball sneaker with a low-top silhouette that has gained significant popularity in the fashion and sneaker culter becaus of their design.",
+            "price":"$109.99",
             "url": "images/newbalance550.jpg"
             
         },
         {
             "newbalanceId":"2",
             "title": "New Balance 574 Core",
-            "description": "THIS IS ID 2 new balance",
+            "description": "The New Balance 574 Core is a classic sneaker that embodies comfort, style, and versatility. The sneaker is crafted with a combination of suede and mesh materials, providing durabillity and breathabillity.",
+            "price":"$89.99",
             "url": "images/newbalance574core.jpg"
             
         },
         {
             "newbalanceId":"3",
             "title": "New Balance Revlite 247",
-            "description": "THIS IS ID 3 new balance",
+            "description": "The New Balance Revlite 247's are a modern and lifestyle-focused sneaker designed for both performance and fashion. They are often released in a range of color options.",
+            "price":"$69.99",
             "url": "images/newbalancerevlite247.jpg"
             
         },
         {
             "newbalanceId":"4",
             "title": "New Balance 997H",
-            "description": "THIS IS ID 4 new balance",
+            "description": "The New Balance 997H's are known for their retro aesthetic design. The sneaker offers a blend of timeless design and contemporary style, making it a popular choice for those seeking a balance in fashion and comfort. ",
+            "price":"$75.97",
             "url": "images/newbalance997H.jpg"
         }
     
